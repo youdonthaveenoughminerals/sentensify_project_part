@@ -1,0 +1,19 @@
+__pycache__/
+*.pyc
+.env
+.env.*
+.idea/
+.vscode/
+*.log
+*.db
+*.sqlite
+venv/
+.venv/
+data/
+api/train_data.csv
+project_dir.txt
+.tmp.drive*
+models/*
+GEMINI.md
+data/                     # data 폴더 전체를 gitignore
+models/                   # 기존 models 폴더도 gitignore
